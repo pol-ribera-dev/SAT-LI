@@ -1,1 +1,1 @@
-Entenent la lógica a un nivell superior i jugant amb el famos problema SAT. Creació propia d'un SAT-solver i dos problemes en el que ens molt útil emplear backtraking.
+Entendiendo la lógica a un nivel superior y jugando con el famoso problema SAT. Creación propia de un SAT-solver y dos problemas en los cuales nos es muy útil emplear backtraking.
